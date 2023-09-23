@@ -75,36 +75,36 @@ To study and execute some Linux commands in terminal.
 
 ![](4.7.png)
 
-COMMAND 8:
+## COMMAND 8:
 
 ```
      host - display the IP address for a given domain name and vice versa
 ```
 
-OUTPUT 8:
+## OUTPUT 8:
 
 ![](4.8.png)
 
-COMMAND 9:
+## COMMAND 9:
 
 ```
        whoami - Get the active username
 ```
 
-OUTPUT 9:
+## OUTPUT 9:
 
 ![](4.9.png)
 
-COMMAND 10:
+## COMMAND 10:
 
 ```
          ps - Display active processes
 ```
 
-OUTPUT 10:
+## OUTPUT 10:
 
 ![](4.10.png)
 
-RESULT:
+## RESULT:
 
 Therefore, the basis of LINUX commands are studied and executed successfully.
