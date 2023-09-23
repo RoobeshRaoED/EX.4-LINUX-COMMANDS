@@ -12,7 +12,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT 1:
 
-![]()
+![](4.1.png)
 
 ## COMMAND 2:
 
@@ -22,7 +22,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT 2:
 
-![]()
+![](4.2.png)
 
 ## COMMAND 3:
 
@@ -33,7 +33,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT3 :
 
-![]()
+![](4.3.png)
 
 ## COMMAND 4:
 
@@ -43,7 +43,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT 4:
 
-![]()
+![](4.4.png)
 
 ## COMMAND 5:
 
@@ -53,7 +53,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT 5:
 
-![]()
+![](4.5.png)
  
 ## COMMAND 6:
 
@@ -63,7 +63,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT 6:
 
-![]()
+![](4.6.png)
 
 ## COMMAND 7:
 
@@ -73,7 +73,7 @@ To study and execute some Linux commands in terminal.
 
 ## OUTPUT 7:
 
-![]()
+![](4.7.png)
 
 COMMAND 8:
 
@@ -83,7 +83,7 @@ COMMAND 8:
 
 OUTPUT 8:
 
-![]()
+![](4.8.png)
 
 COMMAND 9:
 
@@ -93,7 +93,7 @@ COMMAND 9:
 
 OUTPUT 9:
 
-![]()
+![](4.9.png)
 
 COMMAND 10:
 
@@ -103,7 +103,7 @@ COMMAND 10:
 
 OUTPUT 10:
 
-![]()
+![](4.10.png)
 
 RESULT:
 
